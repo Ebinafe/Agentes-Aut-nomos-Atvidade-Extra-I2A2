@@ -13,4 +13,5 @@ class StatisticalTools:
         """
         Matriz de correlação
         """
+
         return df.corr(numeric_only=True)
