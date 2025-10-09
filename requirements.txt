@@ -1,0 +1,15 @@
+streamlit
+pandas
+matplotlib
+seaborn
+langchain
+langchain-openai
+langchain-experimental
+langchain-core
+langchain-community
+python-dotenv
+numpy
+scipy
+openai
+dotenv
+unidecode
